@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}\n\n𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
