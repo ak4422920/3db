@@ -2,7 +2,7 @@
   <img src="" alt="Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  cineoriginals
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
