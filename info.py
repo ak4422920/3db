@@ -90,7 +90,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'abcdefghijklmnopqrstuv
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movie_seriesgroup')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/cineoriginals')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+JNCbLJgu744wYmI1') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+JNCbLJgu744wYmI1') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'http://t.me/AK_ownerbot')
 
 # True Or False
@@ -112,10 +112,10 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', False))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'shrtfly.com')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '2521c9849b6ce96bdeaf4f6f4f9834b6')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/akhowtoopenlinks/35')
+VERIFY = bool(environ.get('VERIFY', True))
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'shortxlinks.com')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '95c90443f0324be097970c3f704e16eca7116c81')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/akhowtoopenlinks/32')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
